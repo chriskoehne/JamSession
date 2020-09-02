@@ -1,0 +1,42 @@
+- I need to think about error handling (how do apps even do that?)
+    - what if instrumentTwo is nil but the proficiency isn't?
+        - This might be easy to think about if I understood optionals better
+        
+- Should people have ratings? (yes, but do it later)
+
+- Browse vs Tinder matching?
+
+- Slider gradients if you want: https://iosexample.com/swiftui-sliders-with-custom-styles-for-ios/
+
+- Learn to size buttons with screen for ProfileForm
+
+- It'd be cool if you could form groups and group chats in the app, but for now I should probably stick with single matches
+    - One at a time looking vs group searching would also be dope
+    
+- I need to add drag functionality for photos sometime
+
+- I would like the sign up button text to remove the button background
+
+- DELETING PHOTOS ONLY WORKS CORRECTLY SOMETIMES
+    - I did get a bit further understanding why. Check the index of the photo last deleted. It's incorrect sometimes
+    - Also I need to make sure you have to have at least ONE. Good place to learn popups(?)
+    
+- Shadows for text boxes or no?
+
+- I need to learn how to store passwords and all that stuff
+
+- Change the popup color
+
+- X and back buttons for Onboarding
+
+- Should the password font size be smaller (what's a good length)?
+    - I also need to make a "change password" place in settings
+    - I should also give a crap about how good your password is eventually (require x amount of numbers, etc)
+    
+- Remove white space for name entries
+
+- I'd like to change the action sheet button colors
+
+
+
+
